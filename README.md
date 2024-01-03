@@ -92,19 +92,22 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=PriyanshGarg
 
 <h2 align="center"> My Projects 👨‍💻 </h2>
 
-- [Amazon-Clone](https://coinedd.netlify.app/) <br>
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PriyanshGarg15&repo=coined&theme=radical)](https://github.com/PriyanshGarg15/AMAZON_CLONE)
+- [Amazon-Clone](https://github.com/PriyanshGarg15/AMAZON_CLONE) <br>
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PriyanshGarg15&repo=AMAZON_CLONE&theme=radical)](https://github.com/PriyanshGarg15/AMAZON_CLONE)
 
-- [VIRTUAL ASSISTANT USING HTML, CSS, and JAVASCRIPT](https://PriyanshGarg15.github.io/Javascript-Virtual-Assitant) <br>
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PriyanshGarg15&repo=Javascript-Virtual-Assitant&theme=radical)](https://github.com/PriyanshGarg15/Javascript-Virtual-Assitant)
+- [Netflix-Clone](https://github.com/PriyanshGarg15/NETFLIX_ClONE) <br>
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PriyanshGarg15&repo=NETFLIX_ClONE&theme=radical)](https://github.com/PriyanshGarg15/NETFLIX_ClONE)
 
-- [News App - Using REACT.js](https://github.com/PriyanshGarg15/news-app-react) <br>
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PriyanshGarg15&repo=news-app-react&theme=radical)](https://github.com/PriyanshGarg15/news-app-react)
+- [Biography Page](https://github.com/PriyanshGarg15/BIOGRAPHY_PAGE) <br>
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PriyanshGarg15&repo=BIOGRAPHY_PAGE&theme=radical)](https://github.com/PriyanshGarg15/BIOGRAPHY_PAGE)
 
-- [VIRTUAL ASSISTANT USING C++](https://github.com/PriyanshGarg15/virtual-assistant-cpp) <br>
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PriyanshGarg15&repo=virtual-assistant-cpp&theme=radical)](https://github.com/PriyanshGarg15/virtual-assistant-cpp)
+- [Band Page](https://github.com/PriyanshGarg15/BAND_PAGE) <br>
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PriyanshGarg15&repo=BAND_PAGE&theme=radical)](https://github.com/PriyanshGarg15/BAND_PAGE)
 
 - [JOB APPLICATION FORM](https://github.com/PriyanshGarg15/JOB_APPLICATION_FORM) <br>
-  [![Readme Card](https://github.com/PriyanshGarg15/JOB_APPLICATION_FORM/blob/main/README.md)](https://github.com/PriyanshGarg15/JOB_APPLICATION_FORM)
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PriyanshGarg15&repo=JOB_APPLICATION_FORM&theme=radical)](https://github.com/PriyanshGarg15/JOB_APPLICATION_FORM)
+
+- [Modern Website](https://github.com/PriyanshGarg15/MODERN_WEBSITE) <br>
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PriyanshGarg15&repo=MODERN_WEBSITE&theme=radical)](https://github.com/PriyanshGarg15/MODERN_WEBSITE)
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
