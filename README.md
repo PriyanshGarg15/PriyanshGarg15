@@ -89,24 +89,5 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=PriyanshGarg
 
  </p>
 
-<h2 align="center"> My Projects 👨‍💻 </h2>
-
-- [Amazon-Clone](https://github.com/PriyanshGarg15/AMAZON_CLONE) <br>
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PriyanshGarg15&repo=AMAZON_CLONE&theme=radical)](https://github.com/PriyanshGarg15/AMAZON_CLONE)
-
-- [Netflix-Clone](https://github.com/PriyanshGarg15/NETFLIX_ClONE) <br>
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PriyanshGarg15&repo=NETFLIX_ClONE&theme=radical)](https://github.com/PriyanshGarg15/NETFLIX_ClONE)
-
-- [Biography Page](https://github.com/PriyanshGarg15/BIOGRAPHY_PAGE) <br>
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PriyanshGarg15&repo=BIOGRAPHY_PAGE&theme=radical)](https://github.com/PriyanshGarg15/BIOGRAPHY_PAGE)
-
-- [Band Page](https://github.com/PriyanshGarg15/BAND_PAGE) <br>
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PriyanshGarg15&repo=BAND_PAGE&theme=radical)](https://github.com/PriyanshGarg15/BAND_PAGE)
-
-- [JOB APPLICATION FORM](https://github.com/PriyanshGarg15/JOB_APPLICATION_FORM) <br>
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PriyanshGarg15&repo=JOB_APPLICATION_FORM&theme=radical)](https://github.com/PriyanshGarg15/JOB_APPLICATION_FORM)
-
-- [Modern Website](https://github.com/PriyanshGarg15/MODERN_WEBSITE) <br>
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PriyanshGarg15&repo=MODERN_WEBSITE&theme=radical)](https://github.com/PriyanshGarg15/MODERN_WEBSITE)
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
