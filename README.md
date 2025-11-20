@@ -15,10 +15,9 @@
   <a href="https://wakatime.com/@018ccf26-e13d-4244-aef0-ab53439bc0bf"><img src="https://wakatime.com/badge/user/018ccf26-e13d-4244-aef0-ab53439bc0bf.svg" alt="Total time coded since Jan 3 2024" /></a>
 </p>
 
-# I'm a Student, Developer and YouTuber!!!
+# I'm a Developer and Problem Solver!!!
 
 - 🌱 I’m currently learning web development and DSA 📝
-- 👯 I’m looking to collaborate with other content creators 🎥
 - 👨‍💻 Goals: Contribute more to Open Source projects 👨‍💻
 - ⚡ Fun fact: I love chess ♟️ and cricket 🏏
 
@@ -74,20 +73,3 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=PriyanshGarg
   </a>
 </p>
  <br>
-
-<h2 align="center">My contribution Streak 🔥</h2>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshGarg15&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
- </p>
- 
-  <h2 align="center">Frequently used Language 📺</h2>
-<p align="center">
-  <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PriyanshGarg15&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
-  </a>
- </p>
-
- </p>
-
-
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
