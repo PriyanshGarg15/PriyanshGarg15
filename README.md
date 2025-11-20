@@ -63,9 +63,4 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=PriyanshGarg
 </a>
    </p>
  <br>
-  <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PriyanshGarg15&theme=onedark" alt="PriyanshGarg15" /> 
-  </a>
-</p>
- <br>
+ 
