@@ -1,10 +1,6 @@
 ![MasterHead](https://github.com/PriyanshGarg15/PriyanshGarg15/blob/main/banner.png)
 
 # Hi there, I'm Priyansh Garg!!! 👋
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-garg-70697327a/)
-
-
 <p align="left">
   <a href="https://github.com/PriyanshGarg15?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/PriyanshGarg15"/></a>
