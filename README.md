@@ -13,7 +13,6 @@
 
 # I'm a Developer and Problem Solver!!!
 
-- 🌱 I’m currently learning web development and DSA 📝
 - 👨‍💻 Goals: Contribute more to Open Source projects 👨‍💻
 - ⚡ Fun fact: I love chess ♟️ and cricket 🏏
 
